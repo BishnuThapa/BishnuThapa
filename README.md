@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bishnu</h1>
-<h4 align="center">A passionate Web developer from Nepal. I'm a Results-oriented full stack developer with 4+ years experience developing, testing, and maintaining enterprise applications. Designed and developed over 30 advanced applications for various use cases and functional requirements for clients ranging from individuals and small businesses all the way to large enterprise corporations.</h4>
+<p align="center">A passionate Web developer from Nepal. I'm a Results-oriented full stack developer with 4+ years experience developing, testing, and maintaining enterprise applications. Designed and developed over 30 advanced applications for various use cases and functional requirements for clients ranging from individuals and small businesses all the way to large enterprise corporations.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishnuthapa&label=Profile%20views&color=0e75b6&style=flat" alt="bishnuthapa" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
